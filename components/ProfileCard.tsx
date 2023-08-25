@@ -41,8 +41,8 @@ const ProfileCard = () => {
                     Get 3 month For  ₹0 
                 </Button>
                 <p className='pt-10 pb-5 font-normal'>
-                    Individual plan only. ₹119/month after. 
-                    Terms and conditions apply. Open only to users who haven't already tried Premium. Offer ends 12/09/23.
+                    Individual plan only. ₹119/month after.
+                    Terms and conditions apply. Open only to users who haven&apos;t already tried Premium. Offer ends 12/09/23.
                 </p>
             </div>
             <div className='
